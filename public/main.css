@@ -1,3 +1,11 @@
-body {
+/* body {
   font-family: -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+} */
+
+.slide {
+  display: none;
+}
+
+.side .slide---current {
+  display: block;
 }
